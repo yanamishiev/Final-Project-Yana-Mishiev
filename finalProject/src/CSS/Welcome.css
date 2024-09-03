@@ -1,0 +1,43 @@
+@font-face {
+    font-family:'Felix007';
+    src: url('../fonts/felix007/felix007-medium.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Felix007', sans-serif;
+    direction: rtl;
+    
+}
+.tab {
+    overflow: hidden;
+    border-bottom: 1px solid #ccc;
+}
+
+.tab button {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+.tab button:hover {
+    background-color: #ddd;
+}
+
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* עיצוב לתוכן הלשונית */
+.tabcontent {
+    display: none;
+    padding: 16px;
+    border-top: none;
+}
+
+.tabcontent.active {
+    display: block;
+}

@@ -1,0 +1,14 @@
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\bin\Debug\net6.0\FinalProj.deps.json
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\bin\Debug\net6.0\FinalProj.runtimeconfig.json
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\bin\Debug\net6.0\FinalProj.dll
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\bin\Debug\net6.0\FinalProj.pdb
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\obj\Debug\net6.0\FinalProj.csproj.AssemblyReference.cache
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\obj\Debug\net6.0\FinalProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\obj\Debug\net6.0\FinalProj.AssemblyInfoInputs.cache
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\obj\Debug\net6.0\FinalProj.AssemblyInfo.cs
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\obj\Debug\net6.0\FinalProj.csproj.CoreCompileInputs.cache
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\obj\Debug\net6.0\FinalProj.dll
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\obj\Debug\net6.0\refint\FinalProj.dll
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\obj\Debug\net6.0\FinalProj.pdb
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\obj\Debug\net6.0\FinalProj.genruntimeconfig.cache
+C:\Users\Yana\OneDrive\מסמכים\project by yana\FinalProj\FinalProj\obj\Debug\net6.0\ref\FinalProj.dll

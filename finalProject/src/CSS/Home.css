@@ -1,0 +1,12 @@
+@font-face {
+    font-family:'Felix007';
+    src: url('../fonts/felix007/felix007-medium.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Felix007', sans-serif;
+    direction: rtl;
+}
+
+
+
